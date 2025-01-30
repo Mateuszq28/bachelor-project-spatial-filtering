@@ -2,7 +2,7 @@ link do wszystkich plików
 https://drive.google.com/drive/folders/120bOeQQk_mx4c1x2odwf8kup_4cmfb9b?usp=sharing
 
 tekst pracy dyplomowej
-https://drive.google.com/file/d/1P1bTtsQZrqQOh9ZjG_9MhdcGFl7_YM-I/view?usp=sharing
+https://drive.google.com/file/d/1SQ49Gcx5X9bx8CGLrQUuGYgomDhRvBOA/view?usp=sharing
 
 aby uruchomić system otworzyć ten folder w terminalu (polecenie cd),
 a następnie wywołać dowolny skrypt poleceniem python3
